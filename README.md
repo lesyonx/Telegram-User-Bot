@@ -4,7 +4,8 @@
 - To download Python to your device: https://www.python.org/downloads/
 - To install the required libraries: `pip install -r requirements.txt`
 
-<h1><img src = "https://cdn.discordapp.com/emojis/944376085976580096.webp?size=96&quality=lossless" high="25px" width="40px"> ## Get To API
+<h1><img src = "https://cdn.discordapp.com/emojis/944376085976580096.webp?size=96&quality=lossless" high="25px" width="40px"> 
+# Get To API
 You can get the information by looking at the telegram api key videos on Youtube.
 ```
 App title: 
